@@ -1,0 +1,42 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  border:1px solid black;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.sender-column {
+  text-align: right;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+p,ul,ol,dl,address {
+  font-size: 1.1em;
+  te
+}
+
+p, li, dd, dt, address {
+  line-height: 1.5;
+}
+
+.header {
+  
+  width: 100%;
+  height: 360px;
+}
+
+.exotic{
+  padding-left: 40px;s
+
+}
+.container{
+  margin: 25px 25px 25px 25px;
+}
